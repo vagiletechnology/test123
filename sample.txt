@@ -1,4 +1,9 @@
 this is sample file
 data written from ashok branch
 added another new line from ashok branch
+<<<<<<< HEAD
 adding data from local repo
+=======
+
+added data from github
+>>>>>>> 393192fcf5355dd1b0c60b5444793df0a5c05e10
